@@ -1,0 +1,23 @@
+
+body {
+	margin:0;
+	padding: 0;
+	background-image: url("https://images.unsplash.com/photo-1450849608880-6f787542c88a");
+	background-size: 100vw 100vh;
+}
+
+
+.container{
+  margin-bottom:-10px;
+  font-family: 'Oswald', sans-serif;
+  text-align:center;
+  color: black;
+  font-size: 40px;
+  padding-top: 200px;
+}
+
+
+/*#container {
+  background-image: url ("https://images.unsplash.com/photo-1450849608880-6f787542c88a") no-repeat center fixed;
+  background-size: cover;
+}
