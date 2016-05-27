@@ -7,14 +7,26 @@ body {
 	background-size: 100vw 100vh;
 }
 
+/*.portada {
+  width:100%;
+  height:100vh;
+  background: url("https://images.unsplash.com/photo-1450849608880-6f787542c88a");
+  background-repeat: no-repeat;
+  background-size: 100vw 100vh;
+}*/
+
 
 .container{
   margin-bottom:-10px;
   font-family: 'Oswald', sans-serif;
   text-align:center;
   color: white;
-  font-size: 40px;
+  font-size: 50px;
   padding-top: 200px;
+}
+
+.container .heading {
+  font-size: 80px;
 }
 
 .header ul li {
@@ -55,11 +67,11 @@ body {
 }
 
 .public {
-	padding-top: 100px;
+	padding-top: 20px;
 }
 
 .titulo {
-	color: black;
+	color: white;
 }
 
 
@@ -67,17 +79,15 @@ body {
   background-color: #260356;
   opacity: 0.8;
   color:white;
+  margin-top: 40px;
 }
 
 .foto1 {
-  width:10%;
-  padding-right: 100px;
+  width:20%;
+  
 }
 
 
-.links{
-	padding-bottom: 100px;
-}
 
 
 @media (max-width: 992px) {
