@@ -47,7 +47,7 @@ body {
 .btn:hover {
   background: #705b9e;
   cursor: pointer; 
-  transition: background .5s;  
+  transition: background 0.8s;  
 }
 
 .web{
