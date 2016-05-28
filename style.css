@@ -102,3 +102,16 @@ body {
   .header h1 {
     text-align: center;
   }
+
+  @media (max-width: 897px) {
+    .footer {
+      height: 100vh;
+    }
+  }
+
+  @media (max-width: 897px) {
+    .foto1{
+      width: 20%;
+    }
+  }
+  
